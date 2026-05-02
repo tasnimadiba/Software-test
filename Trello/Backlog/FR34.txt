@@ -1,0 +1,1 @@
+FR34: Logout from system for Member
